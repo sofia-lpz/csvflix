@@ -1,2 +1,2 @@
 # tecflix
-Streaming service type menu and options using and manipulating csv files
+Streaming service type menu and options displayed in console using and manipulating csv files
